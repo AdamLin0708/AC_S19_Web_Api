@@ -34,6 +34,9 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# facebook auth
+gem 'omniauth-facebook'
+
 gem 'rest-client'
 gem 'carrierwave'
 gem 'devise'
